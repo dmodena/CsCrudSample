@@ -1,0 +1,15 @@
+D:\Projects\minicurso\SlnMiniCurso\Empresa\bin\Debug\Empresa.exe.config
+D:\Projects\minicurso\SlnMiniCurso\Empresa\bin\Debug\Empresa.exe
+D:\Projects\minicurso\SlnMiniCurso\Empresa\bin\Debug\Empresa.pdb
+D:\Projects\minicurso\SlnMiniCurso\Empresa\obj\Debug\Empresa.Properties.Resources.resources
+D:\Projects\minicurso\SlnMiniCurso\Empresa\obj\Debug\Empresa.csproj.GenerateResource.Cache
+D:\Projects\minicurso\SlnMiniCurso\Empresa\obj\Debug\Empresa.exe
+D:\Projects\minicurso\SlnMiniCurso\Empresa\obj\Debug\Empresa.pdb
+D:\Projects\minicurso\SlnMiniCurso\Empresa\obj\Debug\Empresa.frmPrincipal.resources
+D:\Projects\minicurso\SlnMiniCurso\Empresa\obj\Debug\Empresa.csprojResolveAssemblyReference.cache
+D:\Projects\minicurso\SlnMiniCurso\Empresa\obj\Debug\Empresa.frmCliente.resources
+D:\Projects\minicurso\SlnMiniCurso\Empresa\obj\Debug\Empresa.frmProduto.resources
+D:\Projects\minicurso\SlnMiniCurso\Empresa\bin\Debug\DataAccess.dll
+D:\Projects\minicurso\SlnMiniCurso\Empresa\bin\Debug\Model.dll
+D:\Projects\minicurso\SlnMiniCurso\Empresa\bin\Debug\DataAccess.pdb
+D:\Projects\minicurso\SlnMiniCurso\Empresa\bin\Debug\Model.pdb

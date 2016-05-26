@@ -1,0 +1,7 @@
+D:\Projects\minicurso\SlnMiniCurso\DataAccess\bin\Debug\DataAccess.dll
+D:\Projects\minicurso\SlnMiniCurso\DataAccess\bin\Debug\DataAccess.pdb
+D:\Projects\minicurso\SlnMiniCurso\DataAccess\obj\Debug\DataAccess.dll
+D:\Projects\minicurso\SlnMiniCurso\DataAccess\obj\Debug\DataAccess.pdb
+D:\Projects\minicurso\SlnMiniCurso\DataAccess\bin\Debug\Model.dll
+D:\Projects\minicurso\SlnMiniCurso\DataAccess\bin\Debug\Model.pdb
+D:\Projects\minicurso\SlnMiniCurso\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Projects\minicurso\SlnMiniCurso\Model\bin\Debug\Model.dll
+D:\Projects\minicurso\SlnMiniCurso\Model\bin\Debug\Model.pdb
+D:\Projects\minicurso\SlnMiniCurso\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Projects\minicurso\SlnMiniCurso\Model\obj\Debug\Model.dll
+D:\Projects\minicurso\SlnMiniCurso\Model\obj\Debug\Model.pdb

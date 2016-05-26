@@ -1,0 +1,4 @@
+D:\Projects\minicurso\SlnMiniCurso\Model\bin\Release\Model.dll
+D:\Projects\minicurso\SlnMiniCurso\Model\bin\Release\Model.pdb
+D:\Projects\minicurso\SlnMiniCurso\Model\obj\Release\Model.dll
+D:\Projects\minicurso\SlnMiniCurso\Model\obj\Release\Model.pdb
